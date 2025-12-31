@@ -1,4 +1,8 @@
 # ✈️ Airline Passenger Satisfaction Dashboard
+
+<img width="1291" height="727" alt="airline-passenger-satisfaction-Dashboard" src="https://github.com/user-attachments/assets/786e412c-f243-4b02-b81f-1da78494393b" />
+
+
 ### Service Quality & Flight Delay Impact Analysis 📊
 
 This project presents an interactive **Airline Passenger Satisfaction Dashboard** designed to analyze how service quality, travel class, loyalty status, demographics, and flight delays influence passenger satisfaction. It helps airlines identify the key drivers behind **satisfaction vs dissatisfaction** and make data-driven decisions to improve customer experience.
